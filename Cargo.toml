@@ -1,0 +1,9 @@
+[package]
+name = "play_dag"
+version = "0.1.0"
+authors = ["bjorn3 <bjorn3@users.noreply.github.com>"]
+description = "A music player based on DAG's"
+
+[dependencies]
+rand = "0.3"
+daggy = "0.4"
